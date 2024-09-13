@@ -1,1 +1,1 @@
-# prototipo-pygame
+# pygame
